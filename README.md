@@ -14,6 +14,13 @@ The game offers Collision Physics and Gravity Physics.
 
 The primary objective of this project was to showcase my programming and game development skills through the creation of an engaging platformer game. It serves as a testament to my ability to design and implement game mechanics, user interface, and engaging content. The choice of sprites, inspired by "Among Us" and Minecraft, was driven by a desire to pay tribute to these iconic games and their influence on the gaming community, not to claim their original artwork as my own.
 
+## Gravity Physics
+
+A vertical velocity component is added to the y value of the player.
+When the user presses 'w' to jump, the vertical velocity is set to 50. Gravity constantly decriments the value of vertical velocity by 5 each frame causing the player to retard. When the vertical velocity is 0, the user has now reached the vertex of the parabolic jumping trajectory. Gravity now further decreases vertical velocity causing the player to accelerate towards the ground.
+
+In the code, since y is 0 at the top of the screen, all numbers have switched signs (negative to go up, positive to go down). The screen is the fourth quadrant.
+
 ## Disclaimer
 
 The character and door sprites used in this game are artistic interpretations inspired by Among Us and Minecraft, respectively, and are not official assets from these games. The use of these inspired sprites is intended for a non-commercial, educational project designed to showcase programming skills and creativity.
