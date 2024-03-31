@@ -2,6 +2,8 @@
 
 Welcome to the Java Platformer Game, an interactive and engaging game developed entirely in Java, utilizing the PApplet library for its graphical user interface. This game offers a fun and immersive experience for players of all ages.
 
+The game offers Collision Physics and Gravity Physics. 
+
 ## Key Features
 
 - **Programming Language**: Java.
