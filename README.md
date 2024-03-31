@@ -18,5 +18,5 @@ The character and door sprites used in this game are artistic interpretations in
 
 Thank you for your interest in my Java Platformer Game. Dive in and enjoy a world of challenges and adventures!
 
-![Platformer Game Screenshot](https://drive.google.com/file/d/1UUP2_3U4QhN4j2Ddzn0_B-XuRxb8z-Hs/view?usp=drive_link)
-![Platformer Game Screenshot2](https://drive.google.com/file/d/12Utwzvv1qh76HZmcB6cJkozFvi8okKzn/view?usp=sharing)
+![Platformer Game Screenshot](https://ibb.co/yWf5hDm)
+![Platformer Game Screenshot](https://ibb.co/Kr2YJcY)
