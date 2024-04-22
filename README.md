@@ -13,7 +13,7 @@ The game offers Collision Physics and Gravity Physics.
 ## Gravity Physics
 
 A vertical velocity component is added to the y value of the player.
-When the user presses 'w' to jump, the vertical velocity is set to 50. Gravity constantly decriments the value of vertical velocity by 5 each frame causing the player to retard. When the vertical velocity is 0, the user has now reached the vertex of the parabolic jumping trajectory. Gravity now further decreases vertical velocity causing the player to accelerate towards the ground.
+When the user presses 'w' to jump, the vertical velocity is set to 50. Gravity constantly decrements the value of vertical velocity by 5 each frame causing the player to retard. When the vertical velocity is 0, the user has now reached the vertex of the parabolic jumping trajectory. Gravity now further decreases vertical velocity causing the player to accelerate towards the ground.
 
 In the code, since y is 0 at the top of the screen, all numbers have switched signs (negative to go up, positive to go down). The screen is the fourth quadrant.
 
