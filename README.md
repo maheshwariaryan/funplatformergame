@@ -10,10 +10,6 @@ The game offers Collision Physics and Gravity Physics.
 - **Graphics Library**: PApplet.
 - **Game Genre**: Platformer - challenging levels that test your timing and precision.
 
-## Project Goals
-
-The primary objective of this project was to showcase my programming and game development skills through the creation of an engaging platformer game. It serves as a testament to my ability to design and implement game mechanics, user interface, and engaging content. The choice of sprites, inspired by "Among Us" and Minecraft, was driven by a desire to pay tribute to these iconic games and their influence on the gaming community, not to claim their original artwork as my own.
-
 ## Gravity Physics
 
 A vertical velocity component is added to the y value of the player.
